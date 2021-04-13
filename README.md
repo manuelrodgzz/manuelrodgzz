@@ -3,7 +3,7 @@ import SoftwareDeveloper from 'manuelrodgzz'
 
 class Bio extends SoftwareDeveloper {
     name        =   'Manuel Rodríguez';
-    title       =   'IT Bacherlo degree';
+    title       =   'Software Developer';
     company     =   'Enroute Systems';
     location    =   'Nuevo León, México';
 }
