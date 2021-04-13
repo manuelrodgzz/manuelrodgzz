@@ -1,4 +1,4 @@
-```
+```javascript
 import SoftwareDeveloper from 'manuelrodgzz'
 
 class Bio extends SoftwareDeveloper {
