@@ -5,13 +5,13 @@ class Bio extends SoftwareDeveloper {
     name        =   'Manuel Rodríguez';
     title       =   'Software Developer';
     company     =   'Enroute Systems';
-    location    =   'Nuevo León, México';
+    location    =   'Monterrey, México';
 }
 
 class Skills extends SoftwareDeveloper {
     languages   =   ['Javascript', 'Typescript', 'C#'];
     databases   =   ['SQL Server', 'MongoDB'];
-    frameworks  =   ['React', 'React Native', 'NextJS', 'GatsbyJS', 'Express', 'GraphQL', '.NET'];
+    technologies  =   ['React', 'NextJS', 'GatsbyJS', 'Express', 'GraphQL'];
 }
 ```
 
